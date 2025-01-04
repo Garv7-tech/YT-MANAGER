@@ -1,16 +1,7 @@
 
 ---
 
-# 🎥 YT-MANAGER  
-
-A Python app for managing YouTube videos with three storage options: **Text File**, **SQLite**, and **MongoDB**.  
-📋 Supports adding, listing, updating, and deleting videos.  
-✨ Features a modular design with a consistent user experience across backends.  
-💡 Ideal for learning Python, CRUD operations, and database management.  
-
----
-
-## 📖 **YouTube Manager Application**  
+# 🎥**YouTube Manager Application**  
 
 A Python-based application to manage YouTube videos with three storage backends:  
 
@@ -84,13 +75,7 @@ python youtube_manager_app_db.py
 python youtube_manager_app_mongodb.py
 ```
 
-Follow the on-screen prompts to manage your YouTube video collection.  
-
----
-
-## 📝 **License**  
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+Follow the on-screen prompts to manage your YouTube video collection.   
 
 ---
 
